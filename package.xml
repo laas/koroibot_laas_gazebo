@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<package>
+  <name>koroibot_laas_gazebo</name>
+  <version>0.9.0</version>
+  <description>Simulation files for the Koroibot Project at LAAS.</description>
+  <maintainer email="olivier.stasse@laas.fr">Olivier Stasse</maintainer>
+  <license>Modified BSD</license>
+  <author email="olivier.stasse@laas.fr">Olivier Stasse</author>
+
+  <buildtool_depend>catkin</buildtool_depend>
+  <run_depend>gazebo_plugins</run_depend>
+
+</package>
